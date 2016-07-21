@@ -4,7 +4,16 @@ Learn basic mechanics of C by example.
 
 ## Lesson 1: "Hello, World!"
 
-This lesson isn't finished.
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!");
+    return 0;
+}
+```
+
+This lesson's explanation isn't finished.
 
 ## Lesson 2: Number variables
 
